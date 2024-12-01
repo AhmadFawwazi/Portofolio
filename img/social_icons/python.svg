@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+  <g>
+    <!-- Body of Python Logo -->
+    <path fill="#306998" d="M45.4,22.5c0,5.6-4.5,10.1-10.1,10.1H15.7c-2.2,0-3.9-1.8-3.9-3.9V8.4c0-2.2,1.8-3.9,3.9-3.9h19.6c5.6,0,10.1,4.5,10.1,10.1V22.5z"/>
+    <path fill="#FFD43B" d="M54.6,22.5c0,5.6,4.5,10.1,10.1,10.1h19.6c2.2,0,3.9-1.8,3.9-3.9V8.4c0-2.2-1.8-3.9-3.9-3.9H64.1c-5.6,0-10.1,4.5-10.1,10.1V22.5z"/>
+    
+    <!-- Eyes of Python Logo -->
+    <circle fill="#fff" cx="36.7" cy="11.3" r="1.4"/>
+    <circle fill="#fff" cx="63.3" cy="11.3" r="1.4"/>
+  </g>
+</svg>

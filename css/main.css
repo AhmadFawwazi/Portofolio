@@ -665,3 +665,73 @@ h5 {
     top: 0;
   }
 }
+
+/* Styling untuk logo skill di samping skill title */
+.skill-title {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.skill-logo {
+  width: 24px; /* Sesuaikan ukuran logo */
+  height: auto;
+  margin-right: 8px; /* Jarak antara logo dan nama skill */
+}
+
+/* Styling untuk keterangan Skillset */
+.skillset-title {
+  font-size: 20px;  /* Ukuran font */
+  font-weight: 600; /* Tebalkan font untuk menarik perhatian */
+  color: #333; /* Warna teks, sesuaikan dengan tema */
+  margin-bottom: 15px; /* Jarak antara keterangan dan daftar skill */
+  text-transform: uppercase; /* Menjadikan teks Skillset lebih mencolok */
+}
+
+.organization-title {
+  font-size: 20px;  /* Ukuran font untuk judul organisasi */
+  font-weight: 600; /* Tebalkan font */
+  color: #333; /* Warna teks */
+  margin-top: 20px; /* Jarak antara bagian sebelumnya */
+  margin-bottom: 10px; /* Jarak antara judul dan deskripsi organisasi */
+}
+
+.organization-info {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.organization-image {
+  text-align: center; /* Menempatkan gambar di tengah */
+  margin-bottom: 20px; /* Jarak antara gambar dan teks */
+}
+
+.org-img {
+  width: 30%; /* Menyesuaikan lebar gambar agar tidak terlalu besar */
+  max-width: 400px; /* Membatasi lebar maksimal gambar */
+  height: auto; /* Menjaga proporsi gambar tetap terjaga */
+  border-radius: 8px; /* Menambahkan sudut melengkung pada gambar */
+}
+
+.organization-container {
+  display: flex;
+  flex-direction: column; /* Mengatur elemen anak secara vertikal */
+  gap: 20px;              /* Menambahkan jarak antar elemen */
+  align-items: center;    /* Menyelaraskan gambar dan teks di tengah */
+}
+
+.org-img {
+  width: 100px;           /* Menentukan lebar gambar */
+  height: auto;           /* Memastikan gambar tetap proporsional */
+  margin-bottom: 10px;    /* Jarak antara gambar dan teks */
+}
+
+.organization-info {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;       /* Menambahkan jarak antar baris teks */
+  text-align: flex-start;     /* Menyelaraskan teks ke tengah */
+}
+
+
